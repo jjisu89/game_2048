@@ -49,22 +49,19 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-  "해빈", 
-  "민찬",
-  "명빈",
-  "지수",
-  "지영",
-  "한철",
-  "상애",
-  "성훈",
-  "해빈2", 
-  "민찬2",
-  "명빈2",
-  "지수2",
-  "지영2",
-  "한철2",
-  "상애2",
-  "성훈2"];
+  "해빈", //2
+  "민찬", //4
+  "명빈", //8
+  "미향", //16
+  "지수", //32
+  "지영", //64
+  "한철", //128
+  "상애", //256
+  "성훈", //512
+  "빈해", //1024
+  "찬민", //2048
+  "빈명", //4096
+];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
