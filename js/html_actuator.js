@@ -58,9 +58,9 @@ var val2caption = function(val){
   "한철", //128
   "상애", //256
   "성훈", //512
-  "계룡", //1024
-  "청주", //2048
-  "서울", //4096
+  "겨울", //1024
+  "과자", //2048
+  "비밀", //4096
 ];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
