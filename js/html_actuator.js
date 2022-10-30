@@ -49,7 +49,7 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-  "테스트", //2
+  "해빈", //2
   "민찬", //4
   "명빈", //8
   "미향", //16
