@@ -49,7 +49,7 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-  "알로", // 이게 2고 아래는 다 곱하기 2임
+  "지호", // 이게 2고 아래는 다 곱하기 2임
   "해빈", //2
   "민찬", //4
   "명빈", //8
